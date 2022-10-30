@@ -43,4 +43,10 @@ div {
 
 #developer {
     font-size: 25px;
+    font-weight: initial;
 }
+.yo{
+    font-size: 20px;
+    font-style: oblique;
+}
+
